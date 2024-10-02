@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yGGG3l717HBThNVDazgwacM35rmCcDVx7GuBjES5yHEvtQMqb1K6PEIGo2W4TJ6Br32Q9d9sP2KB/XGkrJPTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Legion\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
